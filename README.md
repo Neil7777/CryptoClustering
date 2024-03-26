@@ -9,8 +9,8 @@ This Python script performs analysis on cryptocurrency market data using K-Means
 
 ## Instructions
 1. Ensure Python 3.x and the required libraries are installed (pandas, hvplot, scikit-learn).
-2. Place the crypto_market_data.csv file in the same directory as the script.
-3. Run the crypto_market_data_analysis.py script.
+2. Place the crypto_market_data.csv file in the Resources directory.
+3. Run the Crypto_Clustering.ipynb .
 
 ## Description
 - The script reads the market data from crypto_market_data.csv into a Pandas DataFrame.
