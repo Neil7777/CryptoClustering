@@ -5,7 +5,7 @@ This Python script performs analysis on cryptocurrency market data using K-Means
 
 ## File Structure
 - crypto_market_data.csv: CSV file containing cryptocurrency market data.
-- Crypto_Clustering.ipynb
+- Crypto_Clustering.ipynb: Jupyter Notebook for data analysis and clustering.
 
 ## Instructions
 1. Ensure Python 3.x and the required libraries are installed (pandas, hvplot, scikit-learn).
